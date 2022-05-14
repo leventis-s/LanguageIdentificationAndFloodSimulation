@@ -1,0 +1,43 @@
+Q1: The misclassification of texts can range from being a
+minor inconvenience to a large issue. For example, let's say
+a movie was misclassified to be in Spanish when it was really
+was in one of the native Bolivian languages. This would
+cause backlash and possibly hurt some people, as, in
+some ways, it would be erasing a whole other culture,
+language, and group of people.
+
+
+Q2: One way to ensure reliablity with the program is to check each
+text identification with a human who speaks the language.
+Although it is timely and difficult, it would surely guarantee
+accuracy. Another way to ensure reliability is to impose a
+minimum of 100 words on each text that is being identified.
+This would prevent texts from being misidentified purely
+due to a lack of data.
+
+
+Q3: Option one -- to check it with a human -- has the benefit
+of providing a higher level of accuracy than option two --
+the word miniumum. With that being said, option two is much
+more realistic and is quicker than option one.
+
+
+Q4: If I had to choose between my plans, I would choose option
+one, assuming there was also adequate reference material.
+Although option two would yield great accuracy, it is
+unrealistic on a larger scale.
+
+
+Q5: In order to release this tool to a mass audience, one
+would need to first ensure there is adequate testing material,
+meaning, there is reference material to almot every language.
+Furthermore, there would have to be mass testing of the tool
+to ensure its accuracy. Ideally, it would be accurate more
+than 99% of the time. Lastly, there must be a disclaimer
+explaining to the audience that this tool does indeed make
+mistakes and cannot identify every language due to limitations
+of computers and the nuance of communication.
+
+
+
+
